@@ -4,7 +4,6 @@
 
 ## My GitHub
 * [GitHub mainpage](https://github.com/iamwrm)
- <img src="https://raw.githubusercontent.com/iamwrm/image_disk/master/avator.jpg" style="zoom:10%" alt="图片名称" align=center />
 
 
 
