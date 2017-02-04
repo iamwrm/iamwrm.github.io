@@ -1,46 +1,16 @@
-## This is my journal
-[journal](/docs/journal.md)
+## My journal
+* [Journal](/docs/journal.md)
+
+
+## My GitHub
+* [GitHub mainpage](https://github.com/iamwrm)
+ <img src="https://raw.githubusercontent.com/iamwrm/image_disk/master/avator.jpg" style="zoom:10%" alt="图片名称" align=center />
+
+
+
+## Myself
+> A Chinese student who has passion in computers. Goal for now is to be a game programmer or a server maintainer.
 
 Contact: iamwrm@gmail.com
 
 
-# Things below is auto generated
-For now I want to keep it.
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/iamwrm/iamwrm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iamwrm/iamwrm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
