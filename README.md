@@ -1,6 +1,11 @@
 ## This is my journal
 [journal](/docs/journal.md)
 
+Contact: iamwrm@gmail.com
+
+
+# Things below is auto generated
+For now I want to keep it.
 
 ## Welcome to GitHub Pages
 
