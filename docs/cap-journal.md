@@ -1,19 +1,13 @@
 - [2017](#sec-1)
-  - [2017-01 January](#sec-1-1)
-    - [2017-01-30 Monday](#sec-1-1-1)
-  - [2017-02 February](#sec-1-2)
-    - [2017-02-02 Thursday](#sec-1-2-1)
-    - [2017-02-04 Saturday](#sec-1-2-2)
+  - [2017-02 February](#sec-1-1)
+    - [2017-02-02 Thursday](#sec-1-1-1)
+    - [2017-02-04 Saturday](#sec-1-1-2)
 
 # 2017<a id="sec-1"></a>
 
-## 2017-01 January<a id="sec-1-1"></a>
+## 2017-02 February<a id="sec-1-1"></a>
 
-### 2017-01-30 Monday<a id="sec-1-1-1"></a>
-
-## 2017-02 February<a id="sec-1-2"></a>
-
-### 2017-02-02 Thursday<a id="sec-1-2-1"></a>
+### 2017-02-02 Thursday<a id="sec-1-1-1"></a>
 
 1.  emacs vs vscode
 
@@ -39,12 +33,16 @@
 
     快捷键是 空格+单引号，不是空格+波浪线 Added: <span class="timestamp-wrapper"><span class="timestamp">[2017-02-02 Thu 20:46]</span></span>
 
-### 2017-02-04 Saturday<a id="sec-1-2-2"></a>
+### 2017-02-04 Saturday<a id="sec-1-1-2"></a>
 
 1.  markdown vs org-mode
 
-    org-mode is far better than markdown for it can be exported into markdown the only thing i need to do is to learn some org mode syntax Added: <span class="timestamp-wrapper"><span class="timestamp">[2017-02-04 Sat 09:58]</span></span>
+    org-mo : None de is far better than markdown for it can be exported into markdown the only thing i need to do is to learn some org mode syntax Added: <span class="timestamp-wrapper"><span class="timestamp">[2017-02-04 Sat 09:58]</span></span>
 
 2.  javascript vs python
 
     javascript's syntax is very similar to c/cpp and it has the privilige as a script language / dynamic type language i quit python Added: <span class="timestamp-wrapper"><span class="timestamp">[2017-02-04 Sat 12:11]</span></span>
+
+3.  javascript p5.js as canvas
+
+    Added: <span class="timestamp-wrapper"><span class="timestamp">[2017-02-04 Sat 13:05]</span></span>

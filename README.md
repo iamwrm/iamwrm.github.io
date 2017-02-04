@@ -1,5 +1,5 @@
 ## My journal
-* [Journal](/docs/journal.md)
+* [Journal](/docs/cap-journal.md)
 
 
 ## My GitHub
