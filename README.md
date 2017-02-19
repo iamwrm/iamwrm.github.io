@@ -1,6 +1,6 @@
 ## My journal
 * [Journal](/docs/cap-journal.md)
-
+* [Python Notes](/docs/python.html)
 
 ## My GitHub
 * [GitHub mainpage](https://github.com/iamwrm)
